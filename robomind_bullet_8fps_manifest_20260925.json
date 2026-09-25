@@ -1,0 +1,50 @@
+{
+  "assets/long_video/robomind_fr3_place_plate_rack__original_path_v2__sourcecfg1p5__8fps/input.mp4": {
+    "sha256": "dbc5b4e11796d02daa182229d894e072b9e6919d26e5f58a470006c092411bbf",
+    "bytes": 5239244,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_place_plate_rack__original_path_v2__sourcecfg1p5__8fps/warp.mp4": {
+    "sha256": "d32be6ff62b374fc6f35272155abf4e1245272fa5173976a5785cee99f05adc2",
+    "bytes": 7250773,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_place_plate_rack__original_path_v2__sourcecfg1p5__8fps/camera.mp4": {
+    "sha256": "7d520eea48548aaec731d00c2692e70a43fc526a9c94334e9a1e92ec14aba3b5",
+    "bytes": 190969,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_place_plate_rack__original_path_v2__sourcecfg1p5__8fps/gen.mp4": {
+    "sha256": "b819416ac0ea9aaf77848d0c0a0e05f8bb9dfca1b7f0885f1e22394e0931b880",
+    "bytes": 7363434,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_push_plate__objectcentric_return_v3__sourcecfg1p5__8fps/input.mp4": {
+    "sha256": "c3da544b7c7331095a83c10d5f33d44513ccc88f5d7601e5850ab59bab572282",
+    "bytes": 5274308,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_push_plate__objectcentric_return_v3__sourcecfg1p5__8fps/warp.mp4": {
+    "sha256": "ed3b283237047345a8b8831adc447dcef4248a4c5dd36f8f86b0eeb47a2e7e0d",
+    "bytes": 7573884,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_push_plate__objectcentric_return_v3__sourcecfg1p5__8fps/camera.mp4": {
+    "sha256": "2f5cc099b3c550bc6c2dab5a3b7a6e97784c1f08e1887af62b6460a5526b9a22",
+    "bytes": 227417,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/robomind_fr3_push_plate__objectcentric_return_v3__sourcecfg1p5__8fps/gen.mp4": {
+    "sha256": "0b99b6be3cc818637191aabc9c9cdab1438db09b42d248110c3b8717979a2de9",
+    "bytes": 7362947,
+    "frames": 81,
+    "fps": 8
+  }
+}
