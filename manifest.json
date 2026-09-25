@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "path": "assets/reconstruction/closing_bin.mp4",
+      "sha256": "b19e85b2f9633ac532ae4b89e18ce5cbbf911b99e651e750b7418fc52f66bff4",
+      "bytes": 6405382
+    },
+    {
+      "path": "assets/reconstruction/cold_water_dispenser.mp4",
+      "sha256": "abb1515a3b7899efee59cb4e59c1a5b2ebd3a81840b8017b9fe3fc7b4d3a30e7",
+      "bytes": 6032551
+    },
+    {
+      "path": "assets/reconstruction/displayport_cable_holder.mp4",
+      "sha256": "81a66455cfca7ebb1237bc28f9060d727b4d9149df1350c1d91ecda3da280967",
+      "bytes": 10314372
+    },
+    {
+      "path": "assets/reconstruction/eye_drops_basket.mp4",
+      "sha256": "961a764f162a3e8435947caca26526a639c6b63fa5810625eedd1d257381a02c",
+      "bytes": 17123750
+    },
+    {
+      "path": "assets/reconstruction/melting_glue_block.mp4",
+      "sha256": "62ee93b4fdfcf0774941da87fe25ff4c0cc4aa23f5e0f0ee9fa58089c733d89c",
+      "bytes": 7226645
+    },
+    {
+      "path": "assets/reconstruction/ring_insertion.mp4",
+      "sha256": "1f6edf3ca979233e7666e7144836249b6a3c169175d0498d1c58b4bee6b07503",
+      "bytes": 24542543
+    }
+  ]
+}
