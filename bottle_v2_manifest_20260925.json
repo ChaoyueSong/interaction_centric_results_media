@@ -1,0 +1,26 @@
+{
+  "assets/long_video/egodex_test_screw_unscrew_bottle_cap_7__original_path_v2__sourcecfg1p5/camera.mp4": {
+    "sha256": "5b2b9e54d3ce082cf25198a17c8827de38a4236156d4953262b18b3d5371a533",
+    "bytes": 230050,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/egodex_test_screw_unscrew_bottle_cap_7__original_path_v2__sourcecfg1p5/gen.mp4": {
+    "sha256": "c28f8d2b9c36ec6248cb310b4a965d7a48565027378f4dfb3911d94455fc966a",
+    "bytes": 5512982,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/egodex_test_screw_unscrew_bottle_cap_7__original_path_v2__sourcecfg1p5/input.mp4": {
+    "sha256": "f6ad5226a12a11004be4b9791e25d97629613390b45f0651eb68295c9fdf67c2",
+    "bytes": 1385649,
+    "frames": 81,
+    "fps": 8
+  },
+  "assets/long_video/egodex_test_screw_unscrew_bottle_cap_7__original_path_v2__sourcecfg1p5/warp.mp4": {
+    "sha256": "1b81fb3f98673740b61838b8421006733fb3eb3f920b659ef5d7154c459cb44e",
+    "bytes": 2673994,
+    "frames": 81,
+    "fps": 8
+  }
+}
